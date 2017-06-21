@@ -1,5 +1,5 @@
 # Blockchain Mortgage Demo
-An experimental Blockchain project to demonstrate how a UK mortgage application could be processed using
+An experimental (and learning) Blockchain project to demonstrate how a UK mortgage application could be processed using
 [Hyperledger Fabric](https://www.hyperledger.org/).
 
 [](http://bit.ly/2kZWwg8)
